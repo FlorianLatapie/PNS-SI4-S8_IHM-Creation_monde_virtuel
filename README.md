@@ -1,1 +1,1 @@
-# PNS-SI4-S7_IHM-Cr-ation_monde_virtuel
+# PNS-SI4-S8_IHM-Creation_monde_virtuel
